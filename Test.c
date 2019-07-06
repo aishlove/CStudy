@@ -15,6 +15,6 @@ int main()
     printf("%zu %zu\n", sizeof(str4), strlen(str4));
 
     return 0;
-    
+
 
 }
