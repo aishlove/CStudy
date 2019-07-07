@@ -1,0 +1,11 @@
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+C:\CProjects\CStudy\CSharpStudy\CSharpStudy\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
