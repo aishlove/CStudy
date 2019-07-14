@@ -1,0 +1,11 @@
+C:\CProjects\CStudy\CSharpStudy\000StudyTest\bin\Debug\netcoreapp2.2\000StudyTest.deps.json
+C:\CProjects\CStudy\CSharpStudy\000StudyTest\bin\Debug\netcoreapp2.2\000StudyTest.runtimeconfig.json
+C:\CProjects\CStudy\CSharpStudy\000StudyTest\bin\Debug\netcoreapp2.2\000StudyTest.runtimeconfig.dev.json
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\bin\Debug\netcoreapp2.2\000StudyTest.dll
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\bin\Debug\netcoreapp2.2\000StudyTest.pdb
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\obj\Debug\netcoreapp2.2\000StudyTest.csprojAssemblyReference.cache
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\obj\Debug\netcoreapp2.2\000StudyTest.csproj.CoreCompileInputs.cache
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\obj\Debug\netcoreapp2.2\000StudyTest.AssemblyInfoInputs.cache
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\obj\Debug\netcoreapp2.2\000StudyTest.AssemblyInfo.cs
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\obj\Debug\netcoreapp2.2\000StudyTest.dll
+c:\CProjects\CStudy\CSharpStudy\000StudyTest\obj\Debug\netcoreapp2.2\000StudyTest.pdb
