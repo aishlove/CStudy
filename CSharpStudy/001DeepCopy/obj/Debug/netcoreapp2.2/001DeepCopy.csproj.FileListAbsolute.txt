@@ -1,0 +1,11 @@
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\obj\Debug\netcoreapp2.2\001DeepCopy.csprojAssemblyReference.cache
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\obj\Debug\netcoreapp2.2\001DeepCopy.csproj.CoreCompileInputs.cache
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\obj\Debug\netcoreapp2.2\001DeepCopy.AssemblyInfoInputs.cache
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\obj\Debug\netcoreapp2.2\001DeepCopy.AssemblyInfo.cs
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\bin\Debug\netcoreapp2.2\001DeepCopy.deps.json
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\bin\Debug\netcoreapp2.2\001DeepCopy.runtimeconfig.json
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\bin\Debug\netcoreapp2.2\001DeepCopy.runtimeconfig.dev.json
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\bin\Debug\netcoreapp2.2\001DeepCopy.dll
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\bin\Debug\netcoreapp2.2\001DeepCopy.pdb
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\obj\Debug\netcoreapp2.2\001DeepCopy.dll
+C:\CProjects\CStudy\CSharpStudy\001DeepCopy\obj\Debug\netcoreapp2.2\001DeepCopy.pdb
