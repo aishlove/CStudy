@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "CSharpStudy/1.0.0": {
+      "002Test2/1.0.0": {
         "runtime": {
-          "CSharpStudy.dll": {}
+          "002Test2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharpStudy/1.0.0": {
+    "002Test2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

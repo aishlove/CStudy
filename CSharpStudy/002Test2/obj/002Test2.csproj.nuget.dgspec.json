@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CProjects\\CStudy\\CSharpStudy\\CSharpStudy.csproj": {}
+    "E:\\GitHub\\CStudy\\CSharpStudy\\002Test2\\002Test2.csproj": {}
   },
   "projects": {
-    "C:\\CProjects\\CStudy\\CSharpStudy\\CSharpStudy.csproj": {
+    "E:\\GitHub\\CStudy\\CSharpStudy\\002Test2\\002Test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CProjects\\CStudy\\CSharpStudy\\CSharpStudy.csproj",
-        "projectName": "CSharpStudy",
-        "projectPath": "C:\\CProjects\\CStudy\\CSharpStudy\\CSharpStudy.csproj",
-        "packagesPath": "C:\\Users\\Yong-joo Eom\\.nuget\\packages\\",
-        "outputPath": "C:\\CProjects\\CStudy\\CSharpStudy\\obj\\",
+        "projectUniqueName": "E:\\GitHub\\CStudy\\CSharpStudy\\002Test2\\002Test2.csproj",
+        "projectName": "002Test2",
+        "projectPath": "E:\\GitHub\\CStudy\\CSharpStudy\\002Test2\\002Test2.csproj",
+        "packagesPath": "C:\\Users\\aishl\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\CStudy\\CSharpStudy\\002Test2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yong-joo Eom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aishl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

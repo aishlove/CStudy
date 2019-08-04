@@ -1,0 +1,11 @@
+E:\GitHub\CStudy\CSharpStudy\002Test2\bin\Debug\netcoreapp2.2\002Test2.deps.json
+E:\GitHub\CStudy\CSharpStudy\002Test2\bin\Debug\netcoreapp2.2\002Test2.runtimeconfig.json
+E:\GitHub\CStudy\CSharpStudy\002Test2\bin\Debug\netcoreapp2.2\002Test2.runtimeconfig.dev.json
+e:\GitHub\CStudy\CSharpStudy\002Test2\bin\Debug\netcoreapp2.2\002Test2.dll
+e:\GitHub\CStudy\CSharpStudy\002Test2\bin\Debug\netcoreapp2.2\002Test2.pdb
+e:\GitHub\CStudy\CSharpStudy\002Test2\obj\Debug\netcoreapp2.2\002Test2.csprojAssemblyReference.cache
+e:\GitHub\CStudy\CSharpStudy\002Test2\obj\Debug\netcoreapp2.2\002Test2.csproj.CoreCompileInputs.cache
+e:\GitHub\CStudy\CSharpStudy\002Test2\obj\Debug\netcoreapp2.2\002Test2.AssemblyInfoInputs.cache
+e:\GitHub\CStudy\CSharpStudy\002Test2\obj\Debug\netcoreapp2.2\002Test2.AssemblyInfo.cs
+e:\GitHub\CStudy\CSharpStudy\002Test2\obj\Debug\netcoreapp2.2\002Test2.dll
+e:\GitHub\CStudy\CSharpStudy\002Test2\obj\Debug\netcoreapp2.2\002Test2.pdb

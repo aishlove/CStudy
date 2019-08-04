@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpStudy
+namespace _002Test2
 {
     class Program
     {
