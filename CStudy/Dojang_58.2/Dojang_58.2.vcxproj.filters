@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Dojang_58.2.c">
+    <ClCompile Include="Dojang-58.2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

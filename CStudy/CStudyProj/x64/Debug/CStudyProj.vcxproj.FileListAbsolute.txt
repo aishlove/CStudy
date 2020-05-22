@@ -1,2 +1,2 @@
-C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\CStudyProj.exe
-C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\CStudyProj.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\Dbc.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\Dbc.pdb
