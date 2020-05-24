@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Dbc-14.6_C.cpp">
+    <ClCompile Include="Dbc-14.6_C.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
