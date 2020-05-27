@@ -1,2 +1,5 @@
 ﻿  Dbc-14.7.c
-  Dbc-14.7.vcxproj -> C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\Dbc-14.7.exe
+C:\Users\aishl\Source\Repos\aishlove\CStudy\CStudy\Dbc-14.7\Dbc-14.7.c(29,33): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\aishl\Source\Repos\aishlove\CStudy\CStudy\Dbc-14.7\Dbc-14.7.c(29,60): warning C4312: '형식 캐스트': 'int'에서 더 큰 'float *'(으)로의 변환입니다.
+C:\Users\aishl\Source\Repos\aishlove\CStudy\CStudy\Dbc-14.7\Dbc-14.7.c(43,34): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  Dbc-14.7.vcxproj -> C:\Users\aishl\Source\Repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\Dbc-14.7.exe
