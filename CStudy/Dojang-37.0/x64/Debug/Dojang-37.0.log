@@ -1,0 +1,7 @@
+﻿  Dojang-37.0.cpp
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.0\Dojang-37.0.cpp(44,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.0\Dojang-37.0.cpp(44,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.0\Dojang-37.0.cpp(57,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.0\Dojang-37.0.cpp(57,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.0\Dojang-37.0.cpp(59,6): error C2374: 'col': 재정의. 여러 번 초기화했습니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.0\Dojang-37.0.cpp(46): message : 'col' 선언을 참조하십시오.

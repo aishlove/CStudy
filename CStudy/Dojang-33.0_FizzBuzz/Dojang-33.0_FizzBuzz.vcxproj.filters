@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Dojang-33.0_FizzBuzz.cpp">
+    <ClCompile Include="Dojang-33.0_FizzBuzz.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
