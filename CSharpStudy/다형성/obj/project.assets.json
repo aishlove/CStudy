@@ -9,8 +9,7 @@
   },
   "packageFolders": {
     "C:\\Users\\aishl\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -22,8 +21,7 @@
       "outputPath": "C:\\Users\\aishl\\source\\repos\\aishlove\\CStudy\\CSharpStudy\\다형성\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\aishl\\AppData\\Roaming\\NuGet\\NuGet.Config",
