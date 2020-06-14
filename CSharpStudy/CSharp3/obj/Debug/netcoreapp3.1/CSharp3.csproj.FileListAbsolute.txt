@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\bin\Debug\netcoreapp3.1\CSharp3.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\bin\Debug\netcoreapp3.1\CSharp3.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\bin\Debug\netcoreapp3.1\CSharp3.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\bin\Debug\netcoreapp3.1\CSharp3.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\bin\Debug\netcoreapp3.1\CSharp3.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\bin\Debug\netcoreapp3.1\CSharp3.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp3\obj\Debug\netcoreapp3.1\CSharp3.genruntimeconfig.cache

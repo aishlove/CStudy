@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\bin\Debug\netcoreapp3.1\CSharp4.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\bin\Debug\netcoreapp3.1\CSharp4.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\bin\Debug\netcoreapp3.1\CSharp4.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\bin\Debug\netcoreapp3.1\CSharp4.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\bin\Debug\netcoreapp3.1\CSharp4.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\bin\Debug\netcoreapp3.1\CSharp4.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp4\obj\Debug\netcoreapp3.1\CSharp4.genruntimeconfig.cache

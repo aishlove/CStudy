@@ -14,7 +14,8 @@
         "outputPath": "C:\\Users\\aishl\\source\\repos\\aishlove\\CStudy\\CSharpStudy\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\aishl\\AppData\\Roaming\\NuGet\\NuGet.Config",
