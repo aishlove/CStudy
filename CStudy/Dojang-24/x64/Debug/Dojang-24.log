@@ -1,0 +1,3 @@
+﻿  Dojang-24.c
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-24\Dojang-24.c(90,16): error C2374: 'num1': 재정의. 여러 번 초기화했습니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-24\Dojang-24.c(24): message : 'num1' 선언을 참조하십시오.

@@ -1,0 +1,6 @@
+﻿  Dojang-37.5.c
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.5\Dojang-37.5.c(44,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.5\Dojang-37.5.c(44,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.5\Dojang-37.5.c(46,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\aishl\source\repos\aishlove\CStudy\CStudy\Dojang-37.5\Dojang-37.5.c(46,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Dojang-37.5.vcxproj -> C:\Users\aishl\Source\Repos\aishlove\CStudy\CStudy\CStudyProj\x64\Debug\Dojang-37.5.exe

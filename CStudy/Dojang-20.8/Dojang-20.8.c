@@ -16,7 +16,7 @@ int main()
 
 	scanf("%c", &ch);
 	printf("%s\n", ch != 'k' ? "참" : "거짓");
-	printf("%s\n", ch >= 'h' ? "참" : "거짓");
+	printf("%s\n", ch > 'h' ? "참" : "거짓");
 	printf("%s\n", ch <= 'o' ? "참" : "거짓");
 
 	return 0;
