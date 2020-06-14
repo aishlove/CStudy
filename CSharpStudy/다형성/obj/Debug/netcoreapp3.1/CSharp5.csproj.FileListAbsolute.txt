@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\bin\Debug\netcoreapp3.1\CSharp5.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\bin\Debug\netcoreapp3.1\CSharp5.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\bin\Debug\netcoreapp3.1\CSharp5.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\bin\Debug\netcoreapp3.1\CSharp5.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\bin\Debug\netcoreapp3.1\CSharp5.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\bin\Debug\netcoreapp3.1\CSharp5.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\다형성\obj\Debug\netcoreapp3.1\CSharp5.genruntimeconfig.cache
