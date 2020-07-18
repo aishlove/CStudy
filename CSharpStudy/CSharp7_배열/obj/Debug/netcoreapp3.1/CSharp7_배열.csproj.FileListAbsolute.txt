@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\bin\Debug\netcoreapp3.1\CSharp7_배열.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\bin\Debug\netcoreapp3.1\CSharp7_배열.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\bin\Debug\netcoreapp3.1\CSharp7_배열.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\bin\Debug\netcoreapp3.1\CSharp7_배열.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\bin\Debug\netcoreapp3.1\CSharp7_배열.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\bin\Debug\netcoreapp3.1\CSharp7_배열.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp7_배열\obj\Debug\netcoreapp3.1\CSharp7_배열.genruntimeconfig.cache

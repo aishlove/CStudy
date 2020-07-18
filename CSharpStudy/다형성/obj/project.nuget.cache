@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "886Ei9y1gWt9OdHjs9WRbV34t6C9JKViOCkWdWzpsnOSvkhLK8JS36avpCgWFc4f6DG+Rnec3Hqba3una1qM8g==",
+  "dgSpecHash": "1/E4Jwf8hYe6WoG3lK5/0oHOLDjYbc2skiUaqj0bWvMw36yyoPTvc0UW1XDeuvlvQoA2DSGVS7CBvqzujXjIuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\aishl\\source\\repos\\aishlove\\CStudy\\CSharpStudy\\다형성\\CSharp5.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\aishl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

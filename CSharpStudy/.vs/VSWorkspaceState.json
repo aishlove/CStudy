@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\001"
+    "\\000StudyTest",
+    "\\001",
+    "\\001DeepCopy",
+    "\\002Test2",
+    "\\003Practice",
+    "\\CSharp"
   ],
-  "SelectedNode": "\\001\\001.sln",
+  "SelectedNode": "\\CSharp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\bin\Debug\netcoreapp3.1\CSharp6.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\bin\Debug\netcoreapp3.1\CSharp6.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\bin\Debug\netcoreapp3.1\CSharp6.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\bin\Debug\netcoreapp3.1\CSharp6.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\bin\Debug\netcoreapp3.1\CSharp6.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\bin\Debug\netcoreapp3.1\CSharp6.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp6\obj\Debug\netcoreapp3.1\CSharp6.genruntimeconfig.cache
