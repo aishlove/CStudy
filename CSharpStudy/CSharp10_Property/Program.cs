@@ -23,21 +23,36 @@ namespace CSharp10_Property
             // 라고 부른다.
 
 
-            
+
 
             /* c++ 이라면 다른 방법이 없어서 이렇게 써야 겠지만,
              * C#에서는 이를 위해 프로퍼티라는 문법이 존재한다. */
-            
-            
+
+
+            //public int Hp
+            //{ 
+            //    get { return hp; }
+            //    set { hp = value; }    // 프로퍼티에서는 기본으로 value라는 값을사용한다.
+            //}
+
+            // 자동 구현 프로퍼티
             public int Hp
-            { 
-                get { return hp; }
-                set { hp = value; }    // 프로퍼티에서는 기본으로 value라는 값을사용한다.
-            }
+            {
+                get; set;
+            } = 100;
+            /*
+             
+            private int _hp;
+            public int GetHp() { return _hp;}
+            public void SetHp(int value) {_hp = value;}     // 와 같은 형태라고 볼 수 있다.
+             
+             */
+
 
             // 내부에서는 그냥 사용해도 정상 작동 한다.
             void Test()
-            { 
+            {
+            
             Hp = 200;
             }
         }

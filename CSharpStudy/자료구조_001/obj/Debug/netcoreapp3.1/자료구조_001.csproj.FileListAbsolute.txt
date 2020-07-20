@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\bin\Debug\netcoreapp3.1\자료구조_001.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\bin\Debug\netcoreapp3.1\자료구조_001.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\bin\Debug\netcoreapp3.1\자료구조_001.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\bin\Debug\netcoreapp3.1\자료구조_001.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\bin\Debug\netcoreapp3.1\자료구조_001.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\bin\Debug\netcoreapp3.1\자료구조_001.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\자료구조_001\obj\Debug\netcoreapp3.1\자료구조_001.genruntimeconfig.cache
