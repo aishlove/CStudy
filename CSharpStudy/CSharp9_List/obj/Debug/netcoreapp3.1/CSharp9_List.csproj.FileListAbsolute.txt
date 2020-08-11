@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\bin\Debug\netcoreapp3.1\CSharp9_List.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\bin\Debug\netcoreapp3.1\CSharp9_List.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\bin\Debug\netcoreapp3.1\CSharp9_List.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\bin\Debug\netcoreapp3.1\CSharp9_List.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\bin\Debug\netcoreapp3.1\CSharp9_List.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\bin\Debug\netcoreapp3.1\CSharp9_List.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\obj\Debug\netcoreapp3.1\CSharp9_List.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\obj\Debug\netcoreapp3.1\CSharp9_List.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\obj\Debug\netcoreapp3.1\CSharp9_List.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\obj\Debug\netcoreapp3.1\CSharp9_List.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\obj\Debug\netcoreapp3.1\CSharp9_List.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_List\obj\Debug\netcoreapp3.1\CSharp9_List.genruntimeconfig.cache

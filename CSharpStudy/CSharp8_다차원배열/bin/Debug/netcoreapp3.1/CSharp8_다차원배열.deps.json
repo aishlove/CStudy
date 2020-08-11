@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharp8_다차원배열/1.0.0": {
+        "runtime": {
+          "CSharp8_다차원배열.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp8_다차원배열/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

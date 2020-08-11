@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\bin\Debug\netcoreapp3.1\CSharp12_Event.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\bin\Debug\netcoreapp3.1\CSharp12_Event.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\bin\Debug\netcoreapp3.1\CSharp12_Event.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\bin\Debug\netcoreapp3.1\CSharp12_Event.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\bin\Debug\netcoreapp3.1\CSharp12_Event.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\bin\Debug\netcoreapp3.1\CSharp12_Event.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp12_Event\obj\Debug\netcoreapp3.1\CSharp12_Event.genruntimeconfig.cache

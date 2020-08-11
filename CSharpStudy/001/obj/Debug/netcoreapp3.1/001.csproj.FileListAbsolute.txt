@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\bin\Debug\netcoreapp3.1\001.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\bin\Debug\netcoreapp3.1\001.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\bin\Debug\netcoreapp3.1\001.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\bin\Debug\netcoreapp3.1\001.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\bin\Debug\netcoreapp3.1\001.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\bin\Debug\netcoreapp3.1\001.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\001\obj\Debug\netcoreapp3.1\001.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\bin\Debug\netcoreapp3.1\CSharp9_Generic.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\bin\Debug\netcoreapp3.1\CSharp9_Generic.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\bin\Debug\netcoreapp3.1\CSharp9_Generic.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\bin\Debug\netcoreapp3.1\CSharp9_Generic.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\bin\Debug\netcoreapp3.1\CSharp9_Generic.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\bin\Debug\netcoreapp3.1\CSharp9_Generic.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp9_Generic\obj\Debug\netcoreapp3.1\CSharp9_Generic.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\bin\Debug\netcoreapp3.1\CSharp15_리플렉션.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\bin\Debug\netcoreapp3.1\CSharp15_리플렉션.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\bin\Debug\netcoreapp3.1\CSharp15_리플렉션.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\bin\Debug\netcoreapp3.1\CSharp15_리플렉션.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\bin\Debug\netcoreapp3.1\CSharp15_리플렉션.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\bin\Debug\netcoreapp3.1\CSharp15_리플렉션.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp15_리플렉션\obj\Debug\netcoreapp3.1\CSharp15_리플렉션.genruntimeconfig.cache

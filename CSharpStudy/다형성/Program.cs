@@ -17,7 +17,7 @@ namespace CSharp5
             Console.WriteLine("Player 이동!");
         }
     }
-
+    
     class Knight : Player
     {
         public override void Move()

@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\bin\Debug\netcoreapp3.1\CSharp11_Delegatee.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\bin\Debug\netcoreapp3.1\CSharp11_Delegatee.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\bin\Debug\netcoreapp3.1\CSharp11_Delegatee.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\bin\Debug\netcoreapp3.1\CSharp11_Delegatee.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\bin\Debug\netcoreapp3.1\CSharp11_Delegatee.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\bin\Debug\netcoreapp3.1\CSharp11_Delegatee.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp11_Delegatee\obj\Debug\netcoreapp3.1\CSharp11_Delegatee.genruntimeconfig.cache

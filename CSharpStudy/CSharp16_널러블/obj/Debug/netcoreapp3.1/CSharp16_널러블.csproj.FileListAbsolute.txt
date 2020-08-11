@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\bin\Debug\netcoreapp3.1\CSharp16_널러블.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\bin\Debug\netcoreapp3.1\CSharp16_널러블.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\bin\Debug\netcoreapp3.1\CSharp16_널러블.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\bin\Debug\netcoreapp3.1\CSharp16_널러블.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\bin\Debug\netcoreapp3.1\CSharp16_널러블.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\bin\Debug\netcoreapp3.1\CSharp16_널러블.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\obj\Debug\netcoreapp3.1\CSharp16_널러블.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\obj\Debug\netcoreapp3.1\CSharp16_널러블.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\obj\Debug\netcoreapp3.1\CSharp16_널러블.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\obj\Debug\netcoreapp3.1\CSharp16_널러블.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\obj\Debug\netcoreapp3.1\CSharp16_널러블.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\CSharp16_널러블\obj\Debug\netcoreapp3.1\CSharp16_널러블.genruntimeconfig.cache

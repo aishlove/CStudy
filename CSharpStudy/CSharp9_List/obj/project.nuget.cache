@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qd8Od0xDwSfsEGHBq6GteDMiQab3SOIsp3F7B6VJ8AarhIUmx9TkRbMfMGat3Enn3EfwiWotVKhzPBSX3HNCFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aishl\\source\\repos\\aishlove\\CStudy\\CSharpStudy\\CSharp9_List\\CSharp9_List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aishl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
