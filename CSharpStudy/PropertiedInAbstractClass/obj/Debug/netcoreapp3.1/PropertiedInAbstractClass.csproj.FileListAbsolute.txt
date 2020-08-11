@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\bin\Debug\netcoreapp3.1\PropertiedInAbstractClass.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\bin\Debug\netcoreapp3.1\PropertiedInAbstractClass.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\bin\Debug\netcoreapp3.1\PropertiedInAbstractClass.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\bin\Debug\netcoreapp3.1\PropertiedInAbstractClass.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\bin\Debug\netcoreapp3.1\PropertiedInAbstractClass.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\bin\Debug\netcoreapp3.1\PropertiedInAbstractClass.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\obj\Debug\netcoreapp3.1\PropertiedInAbstractClass.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\obj\Debug\netcoreapp3.1\PropertiedInAbstractClass.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\obj\Debug\netcoreapp3.1\PropertiedInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\obj\Debug\netcoreapp3.1\PropertiedInAbstractClass.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\obj\Debug\netcoreapp3.1\PropertiedInAbstractClass.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\PropertiedInAbstractClass\obj\Debug\netcoreapp3.1\PropertiedInAbstractClass.genruntimeconfig.cache

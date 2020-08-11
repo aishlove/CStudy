@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\bin\Debug\netcoreapp3.1\ConstructorWithProperty.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\ConstructorWithProperty\obj\Debug\netcoreapp3.1\ConstructorWithProperty.genruntimeconfig.cache

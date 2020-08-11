@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.genruntimeconfig.cache

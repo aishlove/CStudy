@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\bin\Debug\netcoreapp3.1\InitializingCollections.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\bin\Debug\netcoreapp3.1\InitializingCollections.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\bin\Debug\netcoreapp3.1\InitializingCollections.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\bin\Debug\netcoreapp3.1\InitializingCollections.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\bin\Debug\netcoreapp3.1\InitializingCollections.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\bin\Debug\netcoreapp3.1\InitializingCollections.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\obj\Debug\netcoreapp3.1\InitializingCollections.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\obj\Debug\netcoreapp3.1\InitializingCollections.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\obj\Debug\netcoreapp3.1\InitializingCollections.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\obj\Debug\netcoreapp3.1\InitializingCollections.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\obj\Debug\netcoreapp3.1\InitializingCollections.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\InitializingCollections\obj\Debug\netcoreapp3.1\InitializingCollections.genruntimeconfig.cache

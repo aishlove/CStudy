@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\bin\Debug\netcoreapp3.1\MyExtension.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\bin\Debug\netcoreapp3.1\MyExtension.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\bin\Debug\netcoreapp3.1\MyExtension.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\bin\Debug\netcoreapp3.1\MyExtension.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\bin\Debug\netcoreapp3.1\MyExtension.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\bin\Debug\netcoreapp3.1\MyExtension.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\obj\Debug\netcoreapp3.1\MyExtension.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\obj\Debug\netcoreapp3.1\MyExtension.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\obj\Debug\netcoreapp3.1\MyExtension.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\obj\Debug\netcoreapp3.1\MyExtension.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\obj\Debug\netcoreapp3.1\MyExtension.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MyExtension\obj\Debug\netcoreapp3.1\MyExtension.genruntimeconfig.cache

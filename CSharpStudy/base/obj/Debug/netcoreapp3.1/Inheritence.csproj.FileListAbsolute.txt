@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\bin\Debug\netcoreapp3.1\Inheritence.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\bin\Debug\netcoreapp3.1\Inheritence.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\bin\Debug\netcoreapp3.1\Inheritence.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\bin\Debug\netcoreapp3.1\Inheritence.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\obj\Debug\netcoreapp3.1\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\obj\Debug\netcoreapp3.1\Inheritence.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\obj\Debug\netcoreapp3.1\Inheritence.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\base\obj\Debug\netcoreapp3.1\Inheritence.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\obj\Debug\netcoreapp3.1\AnonymousType.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\obj\Debug\netcoreapp3.1\AnonymousType.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\obj\Debug\netcoreapp3.1\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\bin\Debug\netcoreapp3.1\AnonymousType.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\bin\Debug\netcoreapp3.1\AnonymousType.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\bin\Debug\netcoreapp3.1\AnonymousType.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\bin\Debug\netcoreapp3.1\AnonymousType.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\bin\Debug\netcoreapp3.1\AnonymousType.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\bin\Debug\netcoreapp3.1\AnonymousType.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\obj\Debug\netcoreapp3.1\AnonymousType.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\obj\Debug\netcoreapp3.1\AnonymousType.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\AnonymousType\obj\Debug\netcoreapp3.1\AnonymousType.genruntimeconfig.cache

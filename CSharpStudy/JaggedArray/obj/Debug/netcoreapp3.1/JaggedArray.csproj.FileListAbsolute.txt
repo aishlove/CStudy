@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.genruntimeconfig.cache

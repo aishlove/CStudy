@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\bin\Debug\netcoreapp3.1\Overriding.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\bin\Debug\netcoreapp3.1\Overriding.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\bin\Debug\netcoreapp3.1\Overriding.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\bin\Debug\netcoreapp3.1\Overriding.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\bin\Debug\netcoreapp3.1\Overriding.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\bin\Debug\netcoreapp3.1\Overriding.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\obj\Debug\netcoreapp3.1\Overriding.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\obj\Debug\netcoreapp3.1\Overriding.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\obj\Debug\netcoreapp3.1\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\obj\Debug\netcoreapp3.1\Overriding.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\obj\Debug\netcoreapp3.1\Overriding.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\Overriding\obj\Debug\netcoreapp3.1\Overriding.genruntimeconfig.cache

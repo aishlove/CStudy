@@ -1,0 +1,13 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\bin\Debug\netcoreapp3.1\MultiInterfaceInheritance.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\bin\Debug\netcoreapp3.1\MultiInterfaceInheritance.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\bin\Debug\netcoreapp3.1\MultiInterfaceInheritance.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\bin\Debug\netcoreapp3.1\MultiInterfaceInheritance.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\bin\Debug\netcoreapp3.1\MultiInterfaceInheritance.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\bin\Debug\netcoreapp3.1\MultiInterfaceInheritance.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.csprojAssemblyReference.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.exe
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.deps.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.runtimeconfig.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.runtimeconfig.dev.json
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\bin\Debug\netcoreapp3.1\MoreOnArray.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.AssemblyInfoInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.AssemblyInfo.cs
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.dll
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.pdb
+C:\Users\aishl\source\repos\aishlove\CStudy\CSharpStudy\MoreOnArray\obj\Debug\netcoreapp3.1\MoreOnArray.genruntimeconfig.cache
